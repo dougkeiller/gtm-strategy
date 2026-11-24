@@ -1,0 +1,10 @@
+{
+  "name": "gtm-strategy",
+  "owner": { "name": "Doug Keiller" },
+  "metadata": { "description": "Evidence-graded GTM strategy pipeline for Claude Code and other agent harnesses", "version": "1.0.0" },
+  "plugins": [
+    { "name": "gtm-strategy", "source": "./", "version": "1.0.0",
+      "description": "Six-agent GTM pipeline with an evidence ladder and a synthetic buyer-panel pretest",
+      "keywords": ["go-to-market", "strategy", "b2b"] }
+  ]
+}
