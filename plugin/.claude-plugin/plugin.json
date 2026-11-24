@@ -2,7 +2,23 @@
   "name": "gtm-strategy",
   "version": "1.0.0",
   "description": "Evidence-graded go-to-market strategy for early-stage B2B companies: four parallel research agents, a synthetic buyer-panel pretest and a synthesis with built-in review.",
-  "author": { "name": "Doug Keiller" },
-  "keywords": ["go-to-market", "gtm", "strategy", "positioning", "pricing", "b2b", "startups", "agents"],
-  "license": "MIT"
+  "author": {
+    "name": "Doug Keiller"
+  },
+  "keywords": [
+    "go-to-market",
+    "gtm",
+    "strategy",
+    "positioning",
+    "pricing",
+    "b2b",
+    "startups",
+    "agents"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dougkeiller/gtm-strategy",
+  "repository": "https://github.com/dougkeiller/gtm-strategy",
+  "supportUrl": "https://github.com/dougkeiller/gtm-strategy/issues",
+  "documentationUrl": "https://github.com/dougkeiller/gtm-strategy#readme",
+  "privacyPolicyUrl": "https://github.com/dougkeiller/gtm-strategy/blob/main/PRIVACY.md"
 }
