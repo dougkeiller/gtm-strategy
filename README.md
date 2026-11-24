@@ -17,10 +17,10 @@ Agents 1–4 run in parallel where the harness supports subagents. Agent 5 needs
 
 ## What makes it different
 
-- **An evidence ladder.** Every claim about buyers is graded from rung 0 (AI or founder belief) up to rung 5 (a paying customer). The strategy has to say up front if its beachhead rests on opinion. Fifty interviews are still opinions; a paid pilot is evidence. See [`references/evidence-ladder.md`](skills/gtm-strategy/references/evidence-ladder.md).
+- **An evidence ladder.** Every claim about buyers is graded from rung 0 (AI or founder belief) up to rung 5 (a paying customer). The strategy has to say up front if its beachhead rests on opinion. Fifty interviews are still opinions; a paid pilot is evidence. See [`references/evidence-ladder.md`](plugin/skills/gtm-strategy/references/evidence-ladder.md).
 - **Price before product.** Pilots default to paid. Willingness-to-pay talk produces ranges, not proof.
-- **Synthetic customers, used honestly.** Recent research shows LLM "synthetic consumers" can reproduce the ranking of consumer survey results, but are weak on individual buyers and on price. None of that research tested B2B buyers. So the panel is a rehearsal that produces better discovery questions, never market evidence. See [`references/synthetic-panel-method.md`](skills/gtm-strategy/references/synthetic-panel-method.md).
-- **Sourced frameworks.** Each framework the agents use is listed with what its source supports and how strong that support is. See [`references/gtm-frameworks.md`](skills/gtm-strategy/references/gtm-frameworks.md).
+- **Synthetic customers, used honestly.** Recent research shows LLM "synthetic consumers" can reproduce the ranking of consumer survey results, but are weak on individual buyers and on price. None of that research tested B2B buyers. So the panel is a rehearsal that produces better discovery questions, never market evidence. See [`references/synthetic-panel-method.md`](plugin/skills/gtm-strategy/references/synthetic-panel-method.md).
+- **Sourced frameworks.** Each framework the agents use is listed with what its source supports and how strong that support is. See [`references/gtm-frameworks.md`](plugin/skills/gtm-strategy/references/gtm-frameworks.md).
 - **Lean prompts.** Company facts live in one input file that every agent reads by path, instead of being pasted into every prompt.
 
 ## Install
